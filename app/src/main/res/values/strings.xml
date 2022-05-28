@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Messanger_task1</string>
+    <string name="chats">Chats</string>
+    <string name="search">Search</string>
+    <string name="name">Bekhruzbek Botirov</string>
+    <string name="bek_has">Ogabek has just sent a voice message. Fri</string>
+    <string name="create_room">Create\nroom</string>
+</resources>
